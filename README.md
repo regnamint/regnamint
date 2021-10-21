@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+<!--### Hi there 👋
 **regnamint/regnamint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Hihi! 
-
-## I'm Regina 👋😁
-## a Developer from Malaysia
+<h2> 
+Hihi! <br>
+I'm Regina 👋😋<br>
+a Developer from Malaysia 
+</h2>
 
 - 📚 I’m currently learning everything 🤣
 - ⚡ Fun fact: I like crafting and drawing but I'm bad in sewing and I can't draw	😹
@@ -28,3 +27,5 @@ Here are some ideas to get you started:
 ### Skills and Tools:
 
 ![](https://img.shields.io/badge/Code-JavaScript-orange)
+![](https://img.shields.io/badge/Code-PHP-orange)
+![](https://img.shields.io/badge/Tools-VS%20Code-yellowgreen)

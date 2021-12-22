@@ -27,5 +27,7 @@ a Developer from Malaysia
 ### Skills and Tools:
 
 ![](https://img.shields.io/badge/Code-JavaScript-orange)
+![](https://img.shields.io/badge/Code-Node.js-orange)
 ![](https://img.shields.io/badge/Code-PHP-orange)
+![](https://img.shields.io/badge/Code-CSS-yellow)
 ![](https://img.shields.io/badge/Tools-VS%20Code-yellowgreen)
